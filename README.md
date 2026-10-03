@@ -84,13 +84,7 @@ flutter pub get
 # Ejecutar la app
 flutter run
 ```
-📸 Capturas
-<div align="center">
-Inicio de sesión	Panel de contenidos	Actividades
-https://docs/screenshots/01.png	https://docs/screenshots/02.png	https://docs/screenshots/03.png
-Detalle de contenido	Perfil de usuario	Notificaciones
-https://docs/screenshots/04.png	https://docs/screenshots/05.png	https://docs/screenshots/06.png
-</div>
+
 🎯 Roadmap
 ☑ Autenticación con Firebase Auth
 ☑ Gestión de contenidos educativos
