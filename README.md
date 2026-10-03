@@ -69,7 +69,7 @@ text
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/yati.git
+git clone https://github.com/J0hannLara/yati-app.git
 cd yati
 
 # Instalar dependencias
