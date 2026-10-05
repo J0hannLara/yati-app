@@ -44,37 +44,37 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDwSITa--w2H_0VrHQTTnD4XL_bu0HZ3Pc',
-    appId: '1:227902974297:web:db8d93a28c1a6389648448',
+    apiKey: 'your API key',
+    appId: 'your API ID',
     messagingSenderId: '227902974297',
-    projectId: 'educonnect-8e2ed',
-    authDomain: 'educonnect-8e2ed.firebaseapp.com',
-    storageBucket: 'educonnect-8e2ed.firebasestorage.app',
+    projectId: 'your projectId',
+    authDomain: 'your authDomain',
+    storageBucket: 'your storageBucket',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD6Dmo3KVZAbOl-5a9_KmylKFIK7Ol_eJA',
-    appId: '1:227902974297:android:307312b967c3558b648448',
-    messagingSenderId: '227902974297',
-    projectId: 'educonnect-8e2ed',
-    storageBucket: 'educonnect-8e2ed.firebasestorage.app',
+    apiKey: 'your API key',
+    appId: 'your API ID',
+    messagingSenderId: 'your messagingSenderId',
+    projectId: 'your projectId',
+    storageBucket: 'your storageBucket',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBpdJND4AG5teQQW-U-9qCcx9QC3Zal-OY',
-    appId: '1:227902974297:ios:3d2e975554d3480c648448',
-    messagingSenderId: '227902974297',
-    projectId: 'educonnect-8e2ed',
-    storageBucket: 'educonnect-8e2ed.firebasestorage.app',
-    iosBundleId: 'com.example.educonnect',
+    apiKey: 'your API key',
+    appId: 'your API ID',
+    messagingSenderId: 'your messagingSenderId',
+    projectId: 'your projectId',
+    storageBucket: 'your storageBucket',
+    iosBundleId: 'your iosBundleId',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBpdJND4AG5teQQW-U-9qCcx9QC3Zal-OY',
-    appId: '1:227902974297:ios:3d2e975554d3480c648448',
+    apiKey: 'your API key',
+    appId: 'your API ID',
     messagingSenderId: '227902974297',
-    projectId: 'educonnect-8e2ed',
-    storageBucket: 'educonnect-8e2ed.firebasestorage.app',
-    iosBundleId: 'com.example.educonnect',
+    projectId: 'your projectId',
+    storageBucket: 'your storageBucket',
+    iosBundleId: 'your iosBundleId',
   );
 }
